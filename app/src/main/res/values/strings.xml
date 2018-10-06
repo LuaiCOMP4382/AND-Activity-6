@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Activity 6</string>
+
+    <string name="block_1_title">Path to happiness</string>
+    <string name="block_1_desc">You have your own life. You live only once. Society will tell you this is the path to success. That is the path to success. Well you know what? Success is when you are doing whatever you that makes you happy, and being good at it.</string>
+    <string name="block_1_footer">Build your own path!</string>
+
+    <string name="block_2_title">Getting rich</string>
+    <string name="block_2_desc">Why do we want to be rich? Is it because human value increases with money? Is money really the root of all evil? We need money for freedom of choice, and to do whatever we need without debts and constraints.</string>
+    <string name="block_2_footer">Increase your passive income!</string>
+
+    <string name="block_3_title">Nanodegree\'s Value</string>
+    <string name="block_3_desc">The nanodegree has quite some value. Adding it to your CV really boasts your exposure and reuptation to work, not necessarily as an android developer. Nanodegrees really provide you essential information for entry-level jobs</string>
+    <string name="block_3_footer">Work hard to graduate!</string>
+
+</resources>
